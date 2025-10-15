@@ -1,0 +1,20 @@
+f1
+f1 news
+f1 news headlines
+f1 news headlines gossip
+f1 news headlines gossip rumors
+f1 news headlines gossip rumors talk
+f1 news headlines gossip rumors talk update
+formula 1
+formula 1 news
+formula 1 news headlines
+formula 1 news headlines gossip
+formula 1 news headlines gossip rumors
+formula 1 news headlines gossip rumors talk
+formula 1 news headlines gossip rumors talk update
+f1 constructors
+f1 constructors standings
+f1 constructors standings 2025
+f1 drivers
+f1 drivers standings
+f1 drivers standings 2025
